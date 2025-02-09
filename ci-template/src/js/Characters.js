@@ -1,4 +1,4 @@
-import Character from './Character';
+import Character from './Class/Character';
 
 class Bowerman extends Character {
   constructor(name) {
